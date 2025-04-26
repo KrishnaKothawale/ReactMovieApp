@@ -6,7 +6,7 @@ This project was built while following [@TechWithTim](https://www.youtube.com/@T
 ---
 
 ## 🌽 Live Demo
-> (You can add your deployed project link here if you deploy it on Vercel, Netlify, etc.)
+> [https://react-movie-app-krishna-kothawale.vercel.app/](https://react-movie-app-krishna-kothawale.vercel.app/)
 
 ---
 
